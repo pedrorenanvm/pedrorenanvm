@@ -3,7 +3,7 @@
 </h1>
 &nbsp;&nbsp;&nbsp;
 
-<h2 align="left"> Sou um estudante de Ciencias da Computação e apaixonado por desenvolvimento software java<br><br>🌱 Atualmente estou estudando desenvolvimento backend java com framework spring<br><br>🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento backend</h2>
+<h2 align="left"> Sou um estudante de Ciencias da Computação e apaixonado por desenvolvimento software <br><br>🌱 Atualmente estou estagiando com NodeJs, Typescript e AWS.</h2>
 
 ###
 
