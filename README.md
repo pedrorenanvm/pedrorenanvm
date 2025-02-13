@@ -3,7 +3,7 @@
 </h1>
 &nbsp;&nbsp;&nbsp;
 
-<h2 align="left"> Sou um estudante de Ciencias da Computação e apaixonado por desenvolvimento software <br><br>🌱 Atualmente estou estagiando com NodeJs, Typescript e AWS.</h2>
+<h2 align="left"> Desenvolvedor Backnend <br><br>🌱 Desenvolvimento com Java/Spring, NodeJs, Typescript e AWS.</h2>
 
 ###
 
@@ -29,12 +29,6 @@
   </a>
   <a href="https://discord.com/channels/@pedrorenan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/pedrorenan____?igsh=MWRpbmg2eXNtam05aw%3D%3D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/pedroviana15094" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 </div>
 
