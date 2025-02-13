@@ -1,4 +1,4 @@
-<h2 align="left">Backend Developer - AWS Certified Cloud Practitioner<br><br>- Computer Science Student</h2>
+<h2 align="left">- Backend Developer - AWS Certified Cloud Practitioner<br><br>- Computer Science Student</h2>
 
 ###
 
